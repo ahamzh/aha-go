@@ -1,2 +1,2 @@
-# aha-go
+# halo-go
 go学习笔记
